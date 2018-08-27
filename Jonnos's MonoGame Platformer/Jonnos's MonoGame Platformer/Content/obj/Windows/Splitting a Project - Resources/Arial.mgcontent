@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/s182334/source/repos/Jonnos's MonoGame Platformer/Jonnos's MonoGame Platformer/Content/Splitting a Project - Resources/Arial.spritefont</SourceFile>
+  <SourceTime>2018-08-22T17:33:38.8595473+09:30</SourceTime>
+  <DestFile>C:/Users/s182334/source/repos/Jonnos's MonoGame Platformer/Jonnos's MonoGame Platformer/Content/bin/Windows/Splitting a Project - Resources/Arial.xnb</DestFile>
+  <DestTime>2018-08-22T17:35:04.8421447+09:30</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-01-31T18:47:42+10:30</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-01-31T18:47:42+10:30</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
